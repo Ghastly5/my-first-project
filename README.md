@@ -1,10 +1,11 @@
 Hello! This is my very first project. Created on CodePen!
 It is currently UNDER PROGRESS.
 
-It's supposed to be a fully customizable list that the user can edit.
-Such as adding items, removing items, changing the title of the list and having a dark/light mode.
+As my first project I wanted to keep it light. I am using HTML and CSS because I don't know anything about JS yet lol. 
 
-🛠 What I'm learning:
-• Using HTML, and CSS to create a list that is pleasant on the eyes.
-• Using JS to make things interactive. 
-• Uploading and managing files on GitHub.
+🛠 What I'm learning/Doing:
+• Using HTML, and CSS to create a tribute page for the twitch streamer CDawgVA.
+• Using CSS to format text and basic layout alignment
+• Embedding images using HTML 
+
+
