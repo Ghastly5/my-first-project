@@ -9,24 +9,26 @@
   <body>
     <header class="top">
       <p>CDawgVA</p>
-      <a href="#socials" class="btn">SOCIALS</a>
-      <a href="#about-me" class="btn">ABOUT</a>
+      <div class="nav-links">
+        <a href="#socials" class="btn">SOCIALS</a>
+        <a href="#about-me" class="btn">ABOUT</a>
+      </div>
     </header>
     <main>
-      <div itemscope itemtype="https://schema.org">
+      <div itemscope itemtype="https://schema.org" class="img-sibling">
         <h1 itemprop="name">CDawgVA</h1>
         <p>The 93%</p>
-        <hr />
         <p>
-          <time itemprop="birthDate" datetime="1996-07-26">
-            January 7, 1996
-          </time>
+          <time itemprop="birthDate" datetime="1996-07-26">July 26, 1996</time>
+          <span>
+            <time itemprop="birthPlace">Denbigh, Wales</time>
+          </span>
         </p>
-        <p></p>
       </div>
       <img
         src="https://www.anime-expo.org/wp-content/uploads/2022/05/CdawgVA-Page-Feature-Image.png"
         alt="CDawg or Conner, dressed in a brown suit"
+        id="main-img"
       />
     </main>
     <script src="./script.js"></script>
